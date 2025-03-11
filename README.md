@@ -3,12 +3,12 @@
 ![Banner](https://www.jadeglobal.com/sites/default/files/2021-03/migrating-blog-banner-min.jpg)
 
 ## About Me
-Hi! I’m **Sajid Hossain**, a passionate **Full Stack Developer** with experience in building scalable and interactive web applications. I love solving problems, learning new technologies, and contributing to open-source projects.
+Hi! I’m **Sajid Hossain**, a passionate **Full Stack Developer** with experience in building scalable and interactive web applications. I love solving problems, learning new technologies, and I wish to contribute to open-source projects someday.
 
 ### **Current Activities**
 - Exploring **Next.js, TypeScript & AI Development**
 - Working on a **Blockchain Website & AI Chatbot Integration**
-- Open to discussions about **React, JavaScript, AI, and Web Performance**
+- Open to discussions about **Airtificial intelligence and Web Performance**
 
 ---
 
@@ -71,9 +71,6 @@ Hi! I’m **Sajid Hossain**, a passionate **Full Stack Developer** with experien
 </p>
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajidhossain8272&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidhossain8272&theme=tokyonight" alt="GitHub Streak" />
