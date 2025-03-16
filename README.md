@@ -3,7 +3,7 @@
 ![Banner](https://www.jadeglobal.com/sites/default/files/2021-03/migrating-blog-banner-min.jpg)
 
 ## About Me
-Hi! I’m **Sajid Hossain**, a passionate **Full Stack Developer** with experience in building scalable and interactive web applications. I love solving problems, learning new technologies, and I wish to contribute to open-source projects someday.
+Hi! I’m **Sajid Hossain**, a passionate **Software Developer** with experience in building scalable and interactive web applications. I love solving problems, learning new technologies, and I wish to contribute to open-source projects someday.
 
 ### **Current Activities**
 - Exploring **Next.js, TypeScript & AI Development**
