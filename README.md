@@ -72,11 +72,7 @@ Hi! I’m **Sajid Hossain**, a passionate **Software Developer** with experience
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidhossain8272&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidhossain8272&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
