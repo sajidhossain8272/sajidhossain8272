@@ -5,7 +5,7 @@
 ## Contact Info
 
 - **WhatsApp:** [Text Me](https://wa.me/8801329530468)
-=- **Portfolio:** [sajid-hossain-front-end-developer-p.vercel.app](https://sajid-hossain-front-end-developer-p.vercel.app)  
+- **Portfolio:** [sajid-hossain-front-end-developer-p.vercel.app](https://sajid-hossain-front-end-developer-p.vercel.app)  
 - **LinkedIn:** [linkedin.com/in/brokephilanthropist](https://linkedin.com/in/brokephilanthropist)  
 
 ---
