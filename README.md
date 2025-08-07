@@ -1,5 +1,3 @@
-# **Sajid Hossain** | **Software Developer**
-
 ![Banner](https://sajid-hossain-front-end-developer-p.vercel.app/banner.png)
 
 ## Contact Info
