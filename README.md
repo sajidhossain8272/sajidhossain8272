@@ -1,6 +1,6 @@
 # **Sajid Hossain** | **Software Developer**
 
-![Banner](https://sajid-hossain-front-end-developer-p.vercel.app/og-image.png)
+![Banner](https://sajid-hossain-front-end-developer-p.vercel.app/banner.png)
 
 ## Contact Info
 
