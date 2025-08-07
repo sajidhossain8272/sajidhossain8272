@@ -1,13 +1,11 @@
-# **Sajid Hossain** | **Software Developer & AI Enthusiast**
+# **Sajid Hossain** | **Software Developer**
 
 ![Banner](https://sajid-hossain-front-end-developer-p.vercel.app/og-image.png)
 
 ## Contact Info
 
-- **Email:** sajidhossain8272@gmail.com  
-- **WhatsApp:** +8801329530468  
-- **Location:** Dhaka, Bangladesh  
-- **Portfolio:** [sajid-hossain-front-end-developer-p.vercel.app](https://sajid-hossain-front-end-developer-p.vercel.app)  
+- **WhatsApp:** [Text Me](https://wa.me/8801329530468)
+=- **Portfolio:** [sajid-hossain-front-end-developer-p.vercel.app](https://sajid-hossain-front-end-developer-p.vercel.app)  
 - **LinkedIn:** [linkedin.com/in/brokephilanthropist](https://linkedin.com/in/brokephilanthropist)  
 
 ---
