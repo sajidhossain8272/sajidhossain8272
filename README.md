@@ -93,6 +93,10 @@ Esports & Competitive Gaming • Tech Blogging • Building Side Projects • Ex
 
 ## 📊 GitHub Stats
 
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidhossain8272&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sajidhossain8272&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidhossain8272&layout=compact&theme=tokyonight" />
 </p>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
