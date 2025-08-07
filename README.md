@@ -2,8 +2,8 @@
 
 ## Contact Info
 
-- **Portfolio:** [sajid-hossain-front-end-developer-p.vercel.app](https://sajid-hossain-front-end-developer-p.vercel.app)  
-- **LinkedIn:** [linkedin.com/in/brokephilanthropist](https://linkedin.com/in/brokephilanthropist)  
+- **Portfolio:** [sajid-hossain-front-end-developer-p.vercel.app](https://sajid-hossain-front-end-developer-p.vercel.app)
+- **LinkedIn:** [linkedin.com/in/brokephilanthropist](https://linkedin.com/in/brokephilanthropist)
 - **WhatsApp Chat:** [Text Me😊](https://wa.me/8801329530468)
 
 ---
@@ -14,10 +14,10 @@ Software Developer with 2+ years of experience delivering responsive, high-perfo
 
 ---
 
-
 ## Tech Stack
 
 ### Frontend
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -30,6 +30,7 @@ Software Developer with 2+ years of experience delivering responsive, high-perfo
 </p>
 
 ### Backend & APIs
+
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
@@ -38,6 +39,7 @@ Software Developer with 2+ years of experience delivering responsive, high-perfo
 </p>
 
 ### AI Development
+
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-%230076D6.svg?style=for-the-badge&logo=google&logoColor=white"/>
@@ -45,12 +47,14 @@ Software Developer with 2+ years of experience delivering responsive, high-perfo
 </p>
 
 ### Blockchain
+
 <p align="left">
   <img src="https://img.shields.io/badge/Wallet_Interaction-%23212121.svg?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blockchain_Basics-%231572B6.svg?style=for-the-badge&logo=blockchain&logoColor=white"/>
 </p>
 
 ### DevOps & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -94,9 +98,8 @@ Esports & Competitive Gaming • Tech Blogging • Building Side Projects • Ex
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sajidhossain8272&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidhossain8272&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sajidhossain8272&show_icons=true&theme=tokyonight" />
 </p>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
