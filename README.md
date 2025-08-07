@@ -97,7 +97,7 @@ Esports & Competitive Gaming • Tech Blogging • Building Side Projects • Ex
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="start">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidhossain8272&layout=compact&theme=tokyonight" />
 </p>
 
