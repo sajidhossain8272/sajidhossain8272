@@ -16,24 +16,6 @@ Software Developer with 2+ years of experience delivering responsive, high-perfo
 
 ---
 
-## Technical Skills
-
-**Languages & Frameworks:**  
-HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js  
-**UI & Styling:**  
-Tailwind CSS, Figma, SEO, Web Performance  
-**Backend & APIs:**  
-Node.js, Express.js, REST APIs, Firebase, MongoDB  
-**Tools:**  
-Git, Postman, Google Analytics, Cloudinary, Gmetrix  
-
----
-
-## Soft Skills
-
-Attention to Detail • Problem Solving • User-Centered Design Thinking • Agile Collaboration • Time Management • Fast Learning • Remote Communication • Cross-Cultural Adaptability
-
----
 
 ## Tech Stack
 
