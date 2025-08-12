@@ -1,4 +1,4 @@
-![Banner](https://sajid-hossain-front-end-developer-p.vercel.app/banner.png)
+![Banner](https://sajid-hossain-front-end-developer-p.vercel.app/banner1.png)
 
 ## Contact Info
 
