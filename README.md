@@ -1,5 +1,3 @@
-![Banner](https://sajid-hossain-front-end-developer-p.vercel.app/banner1.png)
-
 ## Contact Info
 
 - **Portfolio:** [sajid-hossain-front-end-developer-p.vercel.app](https://sajid-hossain-front-end-developer-p.vercel.app)
