@@ -1,6 +1,6 @@
 ## Contact Info
 
-- **Portfolio:** [sajid-hossain-front-end-developer-p.vercel.app](https://sajid-hossain-front-end-developer-p.vercel.app)
+- **Portfolio:** [sajid-hossain-front-end-developer-p.vercel.app](https://sajidev-p.vercel.app)
 - **LinkedIn:** [linkedin.com/in/brokephilanthropist](https://linkedin.com/in/brokephilanthropist)
 - **WhatsApp Chat:** [Text Me😊](https://wa.me/8801329530468)
 
