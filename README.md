@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-Software Developer with 2+ years of experience delivering responsive, high-performance web applications using **React.js, Next.js, TypeScript, and Tailwind CSS**. Expert in integrating APIs, optimizing performance, and elevating user experience across cross-functional teams. Designed and shipped SEO-friendly, accessible solutions in both modern web and Web3 ecosystems. Successfully led scalable, maintainable front-end builds in agile, remote-first teams, contributing to faster load times, improved UX, and client satisfaction.
+Software Developer with 3+ years of experience delivering responsive, high-performance web applications using **React.js, Next.js, TypeScript, and Tailwind CSS**. Expert in integrating APIs, optimizing performance, and elevating user experience across cross-functional teams. Designed and shipped SEO-friendly, accessible solutions in both modern web and Web3 ecosystems. Successfully led scalable, maintainable front-end builds in agile, remote-first teams, contributing to faster load times, improved UX, and client satisfaction.
 
 ---
 
