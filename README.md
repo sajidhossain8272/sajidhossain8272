@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-Full-Stack Web Developer specialized in building high-performance web applications and developer tools using React.js, Next.js, Node.js, and TypeScript.
+Software Developer specialized in building high-performance web applications and developer tools using React.js, Next.js, Node.js, and TypeScript.
 
 ---
 
