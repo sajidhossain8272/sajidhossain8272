@@ -3,7 +3,7 @@
 - **Portfolio:** [https://sajidev-p.vercel.app](https://sajidev-p.vercel.app)
 - **LinkedIn:** [linkedin.com/in/brokephilanthropist](https://linkedin.com/in/brokephilanthropist)
 - **WhatsApp Chat:** [Text Me😊](https://wa.me/8801329530468)
-- **Fiverr:** [[Explore my Services](https://www.fiverr.com/sellers/brokeinnovation)]([https://sajidev-p.vercel.app](https://www.fiverr.com/sellers/brokeinnovation))
+- **Fiverr:** [[Explore my Services]([https://www.fiverr.com/sellers/brokeinnovation](https://www.fiverr.com/brokeinnovation/fix-and-upgrade-your-ai-generated-app-with-claude-code?ref_ctx_id=255e51d8df3245cf8068ae9db3d0dd61&pckg_id=1&source=seller_page))]([https://www.fiverr.com/brokeinnovation/]([https://www.fiverr.com/sellers/brokeinnovation](https://www.fiverr.com/brokeinnovation/fix-and-upgrade-your-ai-generated-app-with-claude-code?ref_ctx_id=255e51d8df3245cf8068ae9db3d0dd61&pckg_id=1&source=seller_page)))
 
 ---
 
